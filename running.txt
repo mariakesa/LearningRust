@@ -1,0 +1,3 @@
+cargo init<-- in a new module folder
+cargo build<-- compiles the  entire module
+cargo run --bin helloworld <--builds and runs a binary
